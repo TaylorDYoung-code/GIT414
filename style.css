@@ -1,0 +1,27 @@
+/*  GLOBAL STYLES*/
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+/* MEDIA QUERY (medium) */
+@media (min-width: 480px) {
+  body {
+    font-size: 17px;
+  }
+}
+/* MEDIA QUERY (large) */
+@media (min-width: 640px) {
+  body {
+    font-size: 18px;
+  }
+}
+/* MEDIA QUERY (xl) */
+@media (min-width: 768px) {
+  body {
+    font-size: 18px;
+  }
+}
